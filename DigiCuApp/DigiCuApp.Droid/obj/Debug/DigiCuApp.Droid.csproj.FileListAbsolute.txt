@@ -1,0 +1,89 @@
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.Droid.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.Droid.pdb
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.Droid.dll.mdb
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.Droid.apk
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.Droid-Signed.apk
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\FormsViewGroup.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.pdb
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.dll.mdb
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\DigiCuApp.Droid.csprojResolveAssemblyReference.cache
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\DigiCuApp.Droid.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\DigiCuApp.Droid.pdb
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\android\bin\DigiCuApp.Droid.apk
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\res\drawable\icon.png
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\R.cs.flag
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\uploadflags.txt
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\xunit.execution.MonoAndroid.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.Droid.dll.config
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.Droid.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.Droid.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.Droid.dll.mdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Digicu.Digicu.apk
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Digicu.Digicu-Signed.apk
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Acr.BarCodes.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\NBitcoin.BouncyCastle.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\NBitcoin.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\RapidBase.Client.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\xunit.abstractions.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\xunit.assert.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\xunit.core.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\zxing.monoandroid.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\ZXing.Net.Mobile.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\DigiCuApp.dll.mdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\NBitcoin.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\NBitcoin.dll.mdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\NBitcoin.BouncyCastle.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\NBitcoin.BouncyCastle.dll.mdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Newtonsoft.Json.dll.mdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\xunit.abstractions.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\xunit.assert.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\xunit.assert.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\xunit.assert.dll.mdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\xunit.core.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\xunit.core.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\xunit.core.dll.mdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\de\DigiCuApp.resources.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\DigiCuApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\DigiCuApp.Droid.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\DigiCuApp.Droid.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\android\bin\Digicu.Digicu.apk
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\R.cs.flag
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\obj\Debug\uploadflags.txt
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\XLabs.Forms.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\XLabs.Core.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\XLabs.Platform.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\XLabs.Serialization.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\XLabs.Ioc.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\ExifLib.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\XLabs.Forms.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\XLabs.Core.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\XLabs.Platform.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\XLabs.Serialization.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp.Droid\bin\Debug\XLabs.Ioc.xml

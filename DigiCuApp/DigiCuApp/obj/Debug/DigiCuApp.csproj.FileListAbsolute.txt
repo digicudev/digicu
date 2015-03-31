@@ -1,0 +1,54 @@
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\DigiCuApp.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\DigiCuApp.pdb
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp\obj\Debug\DigiCuApp.csprojResolveAssemblyReference.cache
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp\obj\Debug\DigiCuApp.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp\obj\Debug\DigiCuApp.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\DigiCuApp.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\DigiCuApp.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\de\DigiCuApp.resources.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Acr.BarCodes.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Acr.XamForms.UserDialogs.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\ExifLib.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\NBitcoin.BouncyCastle.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\NBitcoin.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\RapidBase.Client.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\XLabs.Core.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\XLabs.Forms.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\XLabs.Ioc.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\XLabs.Platform.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\XLabs.Serialization.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\xunit.abstractions.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\xunit.assert.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\xunit.core.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\NBitcoin.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\NBitcoin.BouncyCastle.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\XLabs.Core.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\XLabs.Forms.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\XLabs.Ioc.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\XLabs.Platform.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\XLabs.Serialization.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\xunit.abstractions.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\xunit.assert.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\xunit.assert.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\xunit.core.pdb
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\bin\Debug\xunit.core.xml
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\obj\Debug\DigiCuApp.csprojResolveAssemblyReference.cache
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\obj\Debug\DigiCuApp.AppResources.resources
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\obj\Debug\DigiCuApp.AppResources.de.resources
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\obj\Debug\DigiCuApp.csproj.GenerateResource.Cache
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\obj\Debug\de\DigiCuApp.resources.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\obj\Debug\DigiCuApp.dll
+C:\Users\Holger\Documents\Projects\DigiCuApp\DigiCuApp\DigiCuApp\obj\Debug\DigiCuApp.pdb

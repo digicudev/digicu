@@ -1,0 +1,13 @@
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\bin\iPhone\Debug\DigiCuAppiOS.exe
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\bin\iPhone\Debug\DigiCuAppiOS.pdb
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\bin\iPhone\Debug\DigiCuApp.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\bin\iPhone\Debug\DigiCuApp.pdb
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\obj\iPhone\Debug\
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\obj\iPhone\Debug\DigiCuApp.iOS.csprojResolveAssemblyReference.cache
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\obj\iPhone\Debug\DigiCuAppiOS.exe
+c:\users\holger\documents\visual studio 2013\Projects\DigiCuApp\DigiCuApp\DigiCuApp.iOS\obj\iPhone\Debug\DigiCuAppiOS.pdb
