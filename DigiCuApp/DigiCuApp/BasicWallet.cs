@@ -10,7 +10,6 @@ using NBitcoin.BouncyCastle.Security;
 using NBitcoin.OpenAsset;
 using NBitcoin.Protocol;
 using RapidBase.Client;
-using Xunit;
 
 namespace DigicuApp
 {
