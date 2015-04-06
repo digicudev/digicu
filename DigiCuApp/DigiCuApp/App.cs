@@ -10,7 +10,6 @@ using RapidBase.Client;
 using System.Threading.Tasks;
 using NBitcoin;
 using NBitcoin.OpenAsset;
-using Xunit;
 using NBitcoin.Protocol;
 using Gma.QrCodeNet.Encoding;
 using Acr.XamForms.UserDialogs;
@@ -25,9 +24,6 @@ using NBitcoin.BouncyCastle.Security;
 
 namespace DigicuApp
 {
-
-    
-    
 
     public class App : Application
     {
