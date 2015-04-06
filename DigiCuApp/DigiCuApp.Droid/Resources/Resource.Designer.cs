@@ -31,6 +31,8 @@ namespace DigicuApp.Droid
 			global::Acr.BarCodes.Resource.Layout.zxingscannerfragmentlayout = global::DigicuApp.Droid.Resource.Layout.zxingscannerfragmentlayout;
 			global::Acr.BarCodes.Resource.String.ApplicationName = global::DigicuApp.Droid.Resource.String.ApplicationName;
 			global::Acr.BarCodes.Resource.String.Hello = global::DigicuApp.Droid.Resource.String.Hello;
+			global::Xamarin.Forms.Platform.Resource.String.ApplicationName = global::DigicuApp.Droid.Resource.String.ApplicationName;
+			global::Xamarin.Forms.Platform.Resource.String.Hello = global::DigicuApp.Droid.Resource.String.Hello;
 			global::ZXing.Mobile.Resource.Id.contentFrame = global::DigicuApp.Droid.Resource.Id.contentFrame;
 			global::ZXing.Mobile.Resource.Layout.zxingscanneractivitylayout = global::DigicuApp.Droid.Resource.Layout.zxingscanneractivitylayout;
 			global::ZXing.Mobile.Resource.Layout.zxingscannerfragmentlayout = global::DigicuApp.Droid.Resource.Layout.zxingscannerfragmentlayout;
